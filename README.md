@@ -1,5 +1,7 @@
  # Exploring Netflix Dataset_A Comprehensive EDA Project
  **Project Description**:
+ ![image](https://github.com/AyushTiwari2000/-Exploring_Netflix_Dataset-AComprehensive-EDA-Project-/assets/157293109/2a764efd-5383-471d-b5d8-1f32d724c062)
+
 
 In our project, "Exploring Netflix Dataset: A Comprehensive EDA (Exploratory Data Analysis) Project," we embark on a journey to dissect and understand the intricacies of user behavior within the expansive world of Netflix streaming. With an ever-growing user base and a vast library of content, Netflix stands as a beacon of modern entertainment consumption. Our goal is to delve deep into the wealth of data available to us, unraveling patterns and insights that illuminate the behaviors and preferences of Netflix subscribers.
 
